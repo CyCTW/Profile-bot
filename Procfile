@@ -1,1 +1,1 @@
-web: bin/profile-bot
+web: bin/line-profile-bot
